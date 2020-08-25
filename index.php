@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    //ini script
     <div class="iphone-mockup"><img src="assets/img/iphone.svg" class="device">
         <div class="screen">
             <div class="login-card"><img src="assets/img/avatar_2x.png" class="profile-img-card">
